@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+main{
+    width: 55%;
+    height: 100vh;
+    background-color: cadetblue;
+    margin: auto;
+}
+/* header style */
+.logo h1{
+    padding-top: 20px;
+    color: brown;
+}
+header{
+margin-left: 30px;
+}
+/* table1 style */
+.bill-section table{
+    width: 80%;
+      margin: auto;
+      margin-top: 30px;
+}
+/* table 2 style */
+.qty-section table{
+     width: 80%;
+      margin: auto;
+      margin-top: 30px;
+}
+/* total style */
+.container1{
+    margin-top: 30px;
+    width: 30%;
+    position: relative;
+    left:  60%;
+}
+.content1{
+    float: left;
+}
+.content2{
+    float: right;
+}
+.container-head{
+    position: relative;
+    left: 50%;
+    top: 30px;
+}
+/* footer style */
+footer{
+    margin-top: 50px;
+    margin-left: 30px;
+}
